@@ -30,9 +30,10 @@ Outline the file contents of the repository. It helps users navigate the codebas
 | `.gitignore`      | Define what to ignore at commit time.      |
 | `CHANGELOG.md`    | List of changes to the sample.             |
 | `CONTRIBUTING.md` | Guidelines for contributing to the sample. |
+| `create-workload-on-adventureworks.sql` | Example T-SQL commands to create a load on a SQL server |
 | `README.md`       | This README file.                          |
 | `LICENSE`         | The license for the sample.                |
-| `create-workload-on-adventureworks.sql` | Example T-SQL commands to create a load on a SQL server |
+
 
 ## Contributing
 
