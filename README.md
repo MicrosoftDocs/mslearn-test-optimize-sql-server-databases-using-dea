@@ -32,6 +32,7 @@ Outline the file contents of the repository. It helps users navigate the codebas
 | `CONTRIBUTING.md` | Guidelines for contributing to the sample. |
 | `README.md`       | This README file.                          |
 | `LICENSE`         | The license for the sample.                |
+| `create-workload-on-adventureworks.sql` | Example T-SQL commands to create a load on a SQL server |
 
 ## Contributing
 
