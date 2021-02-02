@@ -18,11 +18,9 @@ Guidance on onboarding samples to docs.microsoft.com/samples: https://review.doc
 Taxonomies for products and languages: https://review.docs.microsoft.com/new-hope/information-architecture/metadata/taxonomies?branch=master
 -->
 
-Give a short description for your sample here. What does it do and why is it important?
+This repository is hosting files that support the Learn module: [Test and optimize SQL Server databases using the Database Experimentation Assistant (DEA)](https://docs.microsoft.com/en-us/learn/modules/test-optimize-sql-server-databases-using-dea/6-exercise-install-dea)
 
 ## Contents
-
-Outline the file contents of the repository. It helps users navigate the codebase, build configuration and any related assets.
 
 | File/folder       | Description                                |
 |-------------------|--------------------------------------------|
@@ -31,6 +29,8 @@ Outline the file contents of the repository. It helps users navigate the codebas
 | `CHANGELOG.md`    | List of changes to the sample.             |
 | `CONTRIBUTING.md` | Guidelines for contributing to the sample. |
 | `create-workload-on-adventureworks.sql` | Example T-SQL commands to create a load on a SQL server |
+| `DacFramework.msi` | Please download the latest version for the framework from https://go.microsoft.com/fwlink/?linkid=2113703) the file is hosted here so that it can be accessed from the sandbox. |
+| `DatabaseExperimentationAssistantV2.6.exe` | Please download the latest version for from [https://www.microsoft.com/download/details.aspx?id=54090](https://www.microsoft.com/download/details.aspx?id=54090) the file is hosted here so that it can be accessed from the sandbox. |
 | `README.md`       | This README file.                          |
 | `LICENSE`         | The license for the sample.                |
 
